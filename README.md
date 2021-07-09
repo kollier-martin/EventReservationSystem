@@ -1,8 +1,8 @@
 # EventReservationSystem
-Contributors: \ 
-  Kollier Martin\  
-  Nile Saabir\  
-  Henry Hetzel\  
+Contributors:<br/> 
+  Kollier Martin<br/> 
+  Nile Saabir<br/>
+  Henry Hetzel
 
 This project was created to simulate an event reservation system.
 

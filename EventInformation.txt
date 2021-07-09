@@ -1,0 +1,5 @@
+Rock Concert | Total Seats : 500 | Available Seats : 500 | Point Cost : 100
+Rap Concert | Total Seats : 500 | Available Seats : 500 | Point Cost : 100
+Piano Recital | Total Seats : 100 | Available Seats : 100 | Point Cost : 200
+Baseball Game | Total Seats : 500 | Available Seats : 500 | Point Cost : 75
+Football Game | Total Seats : 500 | Available Seats : 500 | Point Cost : 75

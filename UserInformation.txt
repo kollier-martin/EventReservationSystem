@@ -1,0 +1,4 @@
+testUser1 | tstpswd | 500 | 0
+testUser2 | tstpswd2 | 1000 | 0
+testUser3 | testpswd3 | 250 | 0
+Mi | Mo | 500 | 0
